@@ -21,7 +21,7 @@
         
         ThirdViewController* page3 = [[ThirdViewController alloc] initWithNibName:@"ThirdViewController" bundle:nil];
         
-        [ self.navigationController pushViewController:page3 animated:nil ];    });
+        [ self.navigationController pushViewController:page3 animated:YES ];    });
 ```
 
 
