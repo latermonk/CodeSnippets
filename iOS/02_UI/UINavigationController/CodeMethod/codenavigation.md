@@ -28,3 +28,8 @@ UIViewController *navRootVC = [[UIViewController alloc] init];
     
 ```
 
+
+
+
+
+![testDemo](/Users/wei/GitHub/CodeSnippets/iOS/02_UI/UINavigationController/CodeMethod/testDemo.jpg)
