@@ -1,4 +1,4 @@
-#创建导航控制器
+# 创建导航控制器
 
 **三步：**
 
@@ -31,5 +31,3 @@ UIViewController *navRootVC = [[UIViewController alloc] init];
 
 
 
-
-![testDemo](/Users/wei/GitHub/CodeSnippets/iOS/02_UI/UINavigationController/CodeMethod/testDemo.jpg)
